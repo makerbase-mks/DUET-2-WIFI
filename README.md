@@ -2,7 +2,7 @@
 Makerbase 32 bit Cloned duet 2 wifi V1.04 board with 4.3 or 7.0 Pandue touch screen for 3d printer parts CNC ender 3 pro
 
 ## Features
-- MKS duet2 wifi hardware from [Duet3D](https://www.duet3d.com/), but MKS has change 1117-3.3V IC as NCP1117ST33T3G(ON Semiconductor)
+- MKS duet2 wifi hardware from [Duet3D](https://www.duet3d.com/)
 - CPU is ATMEL ATSAM4E8E, ARM-Cortex-M4, 120MHZ
 - Support 5 AXIS TMC2660(use SPI mode) and max current is 4A
 - Support esp8266 wifi and transfer gcode file for printing
