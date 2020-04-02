@@ -13,6 +13,7 @@ Makerbase 32 bit Cloned duet 2 wifi V1.04 board with 4.3 or 7.0 Pandue touch scr
 
 ## Related tutorials and Notice
 - User Manual. [click here](https://github.com/makerbase-mks/DUET-2-WIFI/wiki/MKS-Duet2-User-Manual)
+- How to upload firmware to Duet2wifi or PanelDue. [click here](https://github.com/makerbase-mks/DUET-2-WIFI/wiki/How-to-upload-firmware-to-Duet2wifi-or-PanelDue)
 - How buy the MKS Duet2. [click here](https://www.aliexpress.com/item/32986027011.html?spm=a2g0o.store_home.productList_8356959.pic_2)
 - Welcome to follow us on Facebook to learn about the company's latest developments. [click here](https://www.facebook.com/Makerbase.mks/)
 
